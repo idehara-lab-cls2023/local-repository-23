@@ -11,8 +11,8 @@
 コンピュータシミュレーションは何らかの現象をコンピュータでシミュレートすることで、物理学や経済学などの人の手では計算が難しい複雑な事象をコンピュータを使って計算することである。危険が伴う実験や規模の大きな実験でも簡単に行うことができるため必要とされている。
 
 参照
--https://www.fujitsu.com/jp/about/businesspolicy/tech/k/why/simulation/
--https://www.weblio.jp/content/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
+- https://www.fujitsu.com/jp/about/businesspolicy/tech/k/why/simulation/
+- https://www.weblio.jp/content/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
 
 ### コンピュータゲームには「シミュレーションゲーム」という分類があります。シミュレーションゲームを一つ取り上げ、「何がシミュレートされているのか」をかんたんにまとめなさい。
 
